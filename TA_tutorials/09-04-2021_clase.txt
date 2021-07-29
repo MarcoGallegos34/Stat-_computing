@@ -1,0 +1,17 @@
+-Hacer introducción de Stan
+-Ver versión para Google Collab
+
+-Siguiente semana ya dará bayesiana
+
+-Simulated anhiling (MH para (?))
+-Algortimos genéticos (algoritmos de optimización)
+
+-Ejemplos de Stan
+
+-Ver r hat artículo
+
+-ver video Aki Vethari
+
+-Ejemplo de Michel Betancourt (number 1) (betanalpha ejemplo 1 (2.6))
+
+- Para ver lo de r sombrero en dos semanas
